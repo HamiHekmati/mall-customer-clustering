@@ -1,10 +1,14 @@
+<p align="center">
+  <img src="https://img.freepik.com/free-vector/shopping-mall-outside-composition-mall-building-with-tags-headlines-shops-wall_1284-58788.jpg?semt=ais_hybrid&w=740" alt="Shopping Mall Illustration" width="650">
+</p>
+
 ### Mall Customers Segmentation with K-Means and DBSCAN
 
 This project presents a complete workflow for segmenting mall customers using unsupervised clustering techniques. The analysis applies both K-Means and DBSCAN algorithms to identify distinct groups of shoppers based on annual income and spending score, offering actionable insights for targeted marketing and customer engagement strategies.
 
 ### Getting Started
 
-To run this project on your own machine, begin by cloning or downloading the repository. Ensure that Python 3.12.3 (or a compatible Python 3.x version) is installed, then install all required dependencies using the included requirements.txt file with the command <pre> ``` pip install -r requirements.txt ``` </pre>. Once your environment is ready, open the Jupyter notebook file (Mall_Customers_Clustering.ipynb) in Jupyter Notebook, JupyterLab, or upload it to Google Colab for a cloud-based workflow. Make sure the dataset file is available at the path referenced in the notebook, and adjust the file path if necessary to match its actual location on your device. Run all notebook cells in sequence to walk through the full analysis, from data exploration and feature selection to clustering, visualization, and interpretation of customer segments. This setup enables you to fully reproduce the analysis, explore the methodology, and experiment with your own modifications.
+To run this project on your own machine, begin by cloning or downloading the repository. Ensure that Python 3.12.3 (or a compatible Python 3.x version) is installed, then install all required dependencies using the included [requirements.txt](https://github.com/HamiHekmati/mall-customer-clustering/blob/main/requirements.txt) file with the command: <pre> ``` pip install -r requirements.txt ``` </pre> Once your environment is ready, open the Jupyter notebook file [Mall_Customers_Clustering.ipynb](https://github.com/HamiHekmati/mall-customer-clustering/blob/main/mall-customer-clustering.ipynb) in Jupyter Notebook, JupyterLab, or upload it to Google Colab for a cloud-based workflow. Make sure the dataset file is available at the path referenced in the notebook, and adjust the file path if necessary to match its actual location on your device. Run all notebook cells in sequence to walk through the full analysis, from data exploration and feature selection to clustering, visualization, and interpretation of customer segments. This setup enables you to fully reproduce the analysis, explore the methodology, and experiment with your own modifications.
 
 ### Overview
 
